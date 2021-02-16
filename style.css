@@ -1,0 +1,27 @@
+h1 {
+  color:blue;
+}
+*{
+  border:solid;
+  border-color: yellow;
+}
+* {
+  text-transform: uppercase;
+}
+.Header{
+  background-color: red;
+  display:flex;
+  justify-content: space-between;
+}
+.grid{
+  display:flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-between;
+}
+.footer{
+  display: flex;
+  justify-content: flex-end;
+}
+h2,p{
+  text-align: center;
+}
