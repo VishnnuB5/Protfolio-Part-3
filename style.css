@@ -9,7 +9,7 @@ h1 {
   text-transform: uppercase;
 }
 .Header{
-  background-color: red;
+  background-color:orange;
   display:flex;
   justify-content: space-between;
 }
@@ -24,4 +24,7 @@ h1 {
 }
 h2,p{
   text-align: center;
+}
+body{
+  background-color: orange;
 }
